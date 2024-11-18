@@ -20,7 +20,7 @@ The data was exported from **Apple Health**, which tracks various health metrics
 ## How to Use
 1. Use [@jameno](https://github.com/jameno)'s code to convert XML to CSV.
 
-`https://github.com/jameno/Simple-Apple-Health-XML-to-CSV/blob/master/apple_health_xml_convert.py`
+   `https://github.com/jameno/Simple-Apple-Health-XML-to-CSV/blob/master/apple_health_xml_convert.py`
 
 2. Clone this repository:
    ```bash
