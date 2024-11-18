@@ -9,7 +9,7 @@ The data was exported from **Apple Health**, which tracks various health metrics
 - **pandas**: Data manipulation and cleaning
 - **matplotlib**: Data visualization
 - **seaborn**: Statistical data visualization
-- **WordCloud**: Generating word clouds for data exploration
+  
 
 ## Key Features
 - Analysis of **daily, weekly, and monthly trends** in active and basal energy expenditure.
@@ -20,7 +20,7 @@ The data was exported from **Apple Health**, which tracks various health metrics
 ## How to Use
 1. Use [@jameno](https://github.com/jameno)'s code to convert XML to CSV.
 
-https://github.com/jameno/Simple-Apple-Health-XML-to-CSV/blob/master/apple_health_xml_convert.py
+`https://github.com/jameno/Simple-Apple-Health-XML-to-CSV/blob/master/apple_health_xml_convert.py`
 
 2. Clone this repository:
    ```bash
