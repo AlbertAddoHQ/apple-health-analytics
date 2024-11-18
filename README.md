@@ -18,7 +18,10 @@ The data was exported from **Apple Health**, which tracks various health metrics
 - Identification of peak activity periods and energy expenditure distribution.
 
 ## How to Use
-1. Clone this repository:
+1. Use @jameno's code to convert XML to CSV.
+https://github.com/jameno/Simple-Apple-Health-XML-to-CSV/blob/master/apple_health_xml_convert.py
+
+2. Clone this repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
