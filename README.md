@@ -24,5 +24,5 @@ The data was exported from **Apple Health**, which tracks various health metrics
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/AlbertAddoHQ/apple-health-analytics/
    cd your-repo-name
